@@ -31,7 +31,7 @@ export const EN_MASKS: BuiltinMask[] = [
         "template": "{{input}}"
     },
     lang: "en",
-    builtin: false
+    builtin: false,
   },
 {
 	"id": "KMyLHGBhlFnNqUbv72O2N",
@@ -61,7 +61,7 @@ export const EN_MASKS: BuiltinMask[] = [
 	},
 	"lang": "en",
 	"builtin": false,
-	"createdAt": 1714288026272
+	"createdAt": 1714288026272,
 },
   {
     avatar: "1f47e",
@@ -192,5 +192,5 @@ export const EN_MASKS: BuiltinMask[] = [
     lang: "en",
     builtin: true,
     createdAt: 1688899480413,
-  }
-]
+  },
+];
