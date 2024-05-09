@@ -2,7 +2,7 @@ import { BuiltinMask } from "./typing";
 
 export const EN_MASKS: BuiltinMask[] = [
   {
-    avatar: "1f47e",
+    avatar: "1f96e",
     name: "Connect",
     context: [
       {
@@ -29,7 +29,7 @@ export const EN_MASKS: BuiltinMask[] = [
     createdAt: 1688899480410,
   },
   {
-    avatar: "1f47e",
+    avatar: "1f96e",
     name: "Support Mail",
     context: [
       {
@@ -42,7 +42,7 @@ export const EN_MASKS: BuiltinMask[] = [
     ],
     modelConfig: {
       model: "gpt-4",
-      temperature: 0.3,
+      temperature: 0.4,
       max_tokens: 2000,
       presence_penalty: 0,
       frequency_penalty: 0,
@@ -55,7 +55,7 @@ export const EN_MASKS: BuiltinMask[] = [
     createdAt: 1688899480410,
   },
     {
-    avatar: "1f47e",
+    avatar: "1f96e",
     name: "Perspectiver",
     context: [
       {
@@ -82,7 +82,7 @@ export const EN_MASKS: BuiltinMask[] = [
     createdAt: 1688899480410,
   },
   {
-    avatar: "1f47e",
+    avatar: "1f96e",
     name: "GitHub Copilot",
     context: [
       {
